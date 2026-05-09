@@ -37,6 +37,7 @@ These insights empower stakeholders with key business metrics, enabling strategi
 
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
 
-## 🙋 About Me
+## ✨ About Me
 
-Hi there! I am **Pooja Bisht**. Also known as **Bishtify** learning data engineering and analytics.❤️
+Hi there! I'm **Pooja Bisht**, also known as **Bishtify** 👋  
+I'm passionate about learning **Data Engineering** and **Data Analytics**, continuously building my skills to grow and excel in the world of data. ❤️
